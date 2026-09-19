@@ -2,11 +2,12 @@
   <img src="./assets/hero.svg" width="100%" alt="I’m Migumin — Developer / Learner / Creator" />
 </p>
 
-<a id="learning-log"></a>
-<img src="./assets/learning-log.svg" width="100%" alt="Learning Log" />
+<a id="learning"></a>
+<img src="./assets/learning-log.svg" width="100%" alt="Learning" />
 
 <p align="center">
-  <code>PYTHON</code> · <code>AI</code> · <code>BACKEND</code> · <code>DATABASE</code> · <code>COMPUTER SCIENCE</code>
+  <a href="./learning/README.md"><b>LEARNING INDEX</b></a> ·
+  <a href="./learning/unity/README.md"><b>UNITY</b></a>
 </p>
 
 <a id="github-stats"></a>
