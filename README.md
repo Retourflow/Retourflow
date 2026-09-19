@@ -7,7 +7,8 @@
 
 <p align="center">
   <a href="./learning/README.md"><b>LEARNING INDEX</b></a> ·
-  <a href="./learning/unity/README.md"><b>UNITY</b></a>
+  <a href="./learning/unity/README.md"><b>UNITY</b></a> ·
+  <a href="./learning/unity/canvasgroup-alpha-rendering.md"><b>CANVASGROUP &amp; ALPHA RENDERING</b></a>
 </p>
 
 <a id="github-stats"></a>
