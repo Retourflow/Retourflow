@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="520" viewBox="0 0 1280 520" role="img" aria-label="Unity learning category">
+  <rect width="1280" height="520" fill="#F4F4F4"/>
+  <rect x="0" y="0" width="1280" height="6" fill="#FFF44F"/>
+
+  <!-- header rail -->
+  <rect x="28" y="28" width="54" height="54" fill="#0B0C0E"/>
+  <text x="55" y="63" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="900" fill="#FFF44F">M</text>
+  <text x="98" y="48" font-family="Arial, sans-serif" font-size="18" font-weight="900" fill="#0B0C0E">MIGUMIN / LEARNING ARCHIVE</text>
+  <text x="98" y="70" font-family="monospace" font-size="11" font-weight="700" fill="#6D7278">CATEGORY VIEW · UNITY</text>
+  <text x="1245" y="48" text-anchor="end" font-family="monospace" font-size="11" font-weight="700" fill="#6D7278">INDEX / 01</text>
+  <line x1="28" y1="98" x2="1252" y2="98" stroke="#0B0C0E" stroke-width="2"/>
+  <line x1="1088" y1="98" x2="1252" y2="98" stroke="#FFF44F" stroke-width="4"/>
+
+  <!-- left category block -->
+  <path d="M48 136 H350 V480 H64 L48 464 Z" fill="#20242A" stroke="#0B0C0E" stroke-width="2"/>
+  <text x="72" y="168" font-family="monospace" font-size="11" font-weight="700" fill="#8A9199">CATEGORY // 01</text>
+  <text x="72" y="222" font-family="Arial, sans-serif" font-size="48" font-weight="900" fill="#F2F3F5">UNITY</text>
+  <rect x="72" y="244" width="196" height="5" fill="#FFF44F"/>
+  <text x="72" y="284" font-family="Arial, sans-serif" font-size="18" font-weight="800" fill="#F2F3F5">RENDERING / UI</text>
+  <text x="72" y="315" font-family="monospace" font-size="11" font-weight="700" fill="#8A9199">NOTES // 01</text>
+
+  <line x1="72" y1="340" x2="326" y2="340" stroke="#434950" stroke-width="1"/>
+  <text x="72" y="371" font-family="monospace" font-size="11" font-weight="700" fill="#FFF44F">STATUS</text>
+  <text x="148" y="371" font-family="Arial, sans-serif" font-size="14" font-weight="800" fill="#F2F3F5">ACTIVE</text>
+  <text x="72" y="405" font-family="monospace" font-size="11" font-weight="700" fill="#8A9199">ARCHIVE MODE</text>
+  <text x="72" y="430" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#F2F3F5">CATEGORY → TOPIC → NOTE</text>
+
+  <!-- right main -->
+  <text x="394" y="148" font-family="monospace" font-size="11" font-weight="700" fill="#6D7278">UNITY / NOTE INDEX</text>
+  <text x="394" y="190" font-family="Arial, sans-serif" font-size="34" font-weight="900" fill="#0B0C0E">CURRENT NOTES</text>
+  <text x="394" y="220" font-family="Arial, sans-serif" font-size="16" fill="#6D7278">Learning content is grouped by what was studied, not by the day it was studied.</text>
+
+  <!-- note card -->
+  <path d="M394 252 H1232 V396 L1216 412 H394 Z" fill="#F2F3F5" stroke="#0B0C0E" stroke-width="2"/>
+  <rect x="394" y="252" width="838" height="5" fill="#FFF44F"/>
+  <text x="420" y="286" font-family="monospace" font-size="11" font-weight="700" fill="#6D7278">NOTE // 001</text>
+  <text x="420" y="326" font-family="Arial, sans-serif" font-size="24" font-weight="900" fill="#0B0C0E">CanvasGroup &amp; Alpha Rendering</text>
+  <text x="420" y="354" font-family="Arial, sans-serif" font-size="15" fill="#6D7278">CanvasGroup · Alpha Blending · Render Order · RenderTexture · Transparency Sorting</text>
+  <text x="420" y="379" font-family="Arial, sans-serif" font-size="15" fill="#6D7278">Spine · Live2D · Dissolve · Dither Fade</text>
+
+  <rect x="1034" y="286" width="160" height="54" fill="#0B0C0E"/>
+  <text x="1052" y="307" font-family="monospace" font-size="10" font-weight="700" fill="#8A9199">AREA</text>
+  <text x="1052" y="328" font-family="Arial, sans-serif" font-size="15" font-weight="800" fill="#FFF44F">RENDERING / UI</text>
+
+  <!-- footer -->
+  <line x1="394" y1="446" x2="1232" y2="446" stroke="#D7DADD" stroke-width="1"/>
+  <text x="394" y="474" font-family="monospace" font-size="11" font-weight="700" fill="#6D7278">01 NOTE AVAILABLE</text>
+  <text x="1232" y="474" text-anchor="end" font-family="monospace" font-size="11" font-weight="700" fill="#0B0C0E">UNITY // KNOWLEDGE CATEGORY</text>
+</svg>
