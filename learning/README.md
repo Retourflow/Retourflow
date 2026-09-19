@@ -1,17 +1,24 @@
-# LEARNING
+<p align="center">
+  <img src="../assets/learning-index.svg" width="100%" alt="Migumin Learning Index" />
+</p>
 
-> Knowledge is organized by **topic**, not by date.
+<p align="center">
+  <a href="./unity/README.md"><b>01 // UNITY</b></a>
+</p>
 
-## CATEGORY INDEX
+### 01 // UNITY
 
-| CATEGORY | CONTENT |
-| --- | --- |
-| **UNITY** | Rendering, UI, CanvasGroup, transparency, shaders |
+**AREA**  
+Rendering / UI
 
-## UNITY
-
+**NOTES**
 - [CanvasGroup 与透明渲染](./unity/canvasgroup-alpha-rendering.md)
+
+**KEYWORDS**  
+`CanvasGroup` · `Alpha Blending` · `Render Order` · `RenderTexture` · `Transparency Sorting` · `Spine` · `Live2D` · `Dissolve` · `Dither Fade`
 
 ---
 
-More categories will be added only when there is real study content to put inside them.
+<p align="center">
+  <a href="../README.md">← PROFILE HOME</a>
+</p>
