@@ -2,13 +2,11 @@
   <img src="./assets/hero.svg" width="100%" alt="I’m Migumin — Developer / Learner / Creator" />
 </p>
 
-<a id="learning"></a>
-<img src="./assets/learning-log.svg" width="100%" alt="Learning" />
+<a id="lab"></a>
+<img src="./assets/learning-log.svg" width="100%" alt="MIGUMIN Lab — personal knowledge archive" />
 
 <p align="center">
-  <a href="./learning/README.md"><b>LEARNING INDEX</b></a> ·
-  <a href="./learning/unity/README.md"><b>UNITY</b></a> ·
-  <a href="./learning/unity/canvasgroup-alpha-rendering.md"><b>CANVASGROUP &amp; ALPHA RENDERING</b></a>
+  <a href="https://github.com/Retourflow/MIGUMIN-Lab"><b>ENTER MIGUMIN LAB</b></a>
 </p>
 
 <a id="github-stats"></a>
