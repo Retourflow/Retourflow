@@ -1,9 +1,14 @@
-# CanvasGroup 与透明渲染
+<p align="center">
+  <img src="../../assets/unity-canvasgroup-alpha-rendering.svg" width="100%" alt="CanvasGroup and Alpha Rendering" />
+</p>
 
-| CATEGORY | UNITY |
-| --- | --- |
-| AREA | Rendering / UI |
-| KEYWORDS | CanvasGroup · Alpha Blending · Render Order · RenderTexture · Transparency Sorting · Spine · Live2D · Dissolve · Dither Fade |
+<p align="center">
+  <a href="./README.md">← UNITY INDEX</a> ·
+  <a href="../README.md">LEARNING INDEX</a> ·
+  <a href="../../README.md">PROFILE HOME</a>
+</p>
+
+---
 
 这次是从 `CanvasGroup` 开始往下顺出来的一些东西。
 
