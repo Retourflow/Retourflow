@@ -1,11 +1,12 @@
-# UNITY
+<p align="center">
+  <img src="../../assets/unity-index.svg" width="100%" alt="Unity learning category" />
+</p>
 
-> CATEGORY // UNITY
+<p align="center">
+  <a href="./canvasgroup-alpha-rendering.md"><b>CANVASGROUP &amp; ALPHA RENDERING</b></a>
+</p>
 
-## Rendering / UI
-
-- [CanvasGroup 与透明渲染](./canvasgroup-alpha-rendering.md)
-
-### Topics covered
-
-`CanvasGroup` · `Alpha Blending` · `Render Order` · `RenderTexture` · `Transparency Sorting` · `Spine` · `Live2D` · `Dissolve` · `Dither Fade`
+<p align="center">
+  <a href="../README.md">← LEARNING INDEX</a> ·
+  <a href="../../README.md">PROFILE HOME</a>
+</p>
